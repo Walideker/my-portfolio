@@ -1,0 +1,16 @@
+.link {
+    text-decoration: dashed;
+    color: black;
+    margin: 5px;
+}
+
+.all{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.abt{
+    width: 400px;
+    height: max-content;
+    font-size: 14px;
+}
