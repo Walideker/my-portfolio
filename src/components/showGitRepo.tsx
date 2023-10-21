@@ -31,7 +31,7 @@ function App() {
                 <h1>Education</h1>
                 <p className='abt mt-4 text-start'>
                     Certifications: <br />
-                     front-end web development | GoMyCode  | 2021 <br />
+                    front-end web development | GoMyCode  | 2021 <br />
                     Additional Information: <br />
                     Stay up-to-date with the latest web technologies and industry trends through continuous learning and self-improvement. <br />
                     Actively contribute to open-source projects, sharing knowledge and collaborating with the developer community. <br />

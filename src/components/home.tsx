@@ -11,8 +11,8 @@ function home() {
 
     <div className='container' >
       <div className='text-center me '>
-        <h1 >Front-end react </h1>
-        <p>hello, I am walid adrouche a passionate react  <br />developer based in Algeria <MdLocationOn />  <GiAlgeria /> </p>
+        <h1 >Front-end React </h1>
+        <p>Hello, I am Med Walid Adrouche a passionate react  <br />developer based in Algeria <MdLocationOn />  <GiAlgeria /> </p>
       </div>
       <div className='text-center m-2 sociale '>
         <a className='m-2' href="https://github.com/Walideker"><FaGithub size={25} color='black' /></a>
